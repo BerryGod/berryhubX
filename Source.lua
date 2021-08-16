@@ -24,6 +24,6 @@ end
 
 --big paintball
 
-if game.PlaceId == 3527629287 then
+if game.PlaceId == 352762928 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
 end
